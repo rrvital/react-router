@@ -4,7 +4,7 @@ import '../CSS/Sleepy.css';
 class Sleepy extends Component {
   render() {
     return (
-      <div id="sleepy"></div>
+      <div id="sleepy">sleepy</div>
     );
   }
 }
