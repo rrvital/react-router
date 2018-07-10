@@ -4,7 +4,7 @@ import '../CSS/Happy.css';
 class Happy extends Component {
   render() {
     return (
-      <div id="happy"></div>
+      <div id="happy">Happy</div>
     );
   }
 }
